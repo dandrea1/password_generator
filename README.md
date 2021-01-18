@@ -1,2 +1,3 @@
 # password_generator
-used python to create a password generator
+
+Generates new password and saves the password, website, and username to a .txt file. 
